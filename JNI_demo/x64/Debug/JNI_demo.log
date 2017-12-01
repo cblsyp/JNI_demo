@@ -1,0 +1,23 @@
+﻿  0_1.c
+c:\users\administrator\source\repos\jni_demo\jni_demo\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\source\repos\jni_demo\jni_demo\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(37): warning C4133: “函数”: 从“char *”到“const jchar *”的类型不兼容
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(28): warning C4090: “初始化”: 不同的“const”限定符
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(86): warning C4090: “初始化”: 不同的“const”限定符
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(170): warning C4267: “函数”: 从“size_t”转换到“jsize”，可能丢失数据
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(174): warning C4267: “函数”: 从“size_t”转换到“jsize”，可能丢失数据
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(196): warning C4090: “函数”: 不同的“const”限定符
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(196): warning C4028: 形参 1 与声明不同
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(196): warning C4028: 形参 2 与声明不同
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(217): warning C4033: “Java_JNIMain_initStringArray”必须返回值
+  02.c
+c:\users\administrator\source\repos\jni_demo\jni_demo\02.c(25): warning C4047: “函数”:“char”与“char [2]”的间接级别不同
+c:\users\administrator\source\repos\jni_demo\jni_demo\02.c(25): warning C4024: “通过指针的函数”: 形参和实参 2 的类型不同
+  正在生成代码...
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(286): warning C4716: “Java_JNIMain_createGlobalRef”: 必须返回一个值
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(250): warning C4715: “Java_JNIMain_initStringArray”: 不是所有的控件路径都返回值
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(296): warning C4716: “Java_JNIMain_delectGlobalRef”: 必须返回一个值
+c:\users\administrator\source\repos\jni_demo\jni_demo\0_1.c(328): warning C4716: “Java_JNIMain_exception”: 必须返回一个值
+    正在创建库 C:\Users\Administrator\source\repos\JNI_demo\x64\Debug\JNI_demo.lib 和对象 C:\Users\Administrator\source\repos\JNI_demo\x64\Debug\JNI_demo.exp
+  JNI_demo.vcxproj -> C:\Users\Administrator\source\repos\JNI_demo\x64\Debug\JNI_demo.dll
+  JNI_demo.vcxproj -> C:\Users\Administrator\source\repos\JNI_demo\x64\Debug\JNI_demo.pdb (Partial PDB)
